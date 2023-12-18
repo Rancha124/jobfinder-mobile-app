@@ -4,6 +4,8 @@
 
 The JobFinder Mobile Application is a user-friendly platform designed to assist individuals in discovering job opportunities. It provides access to popular, nearby, and searchable job listings, along with comprehensive details for each role, including requirements, qualifications, and direct links to respective application portals. The application also incorporates pagination for better navigation and a filter feature allowing users to refine searches based on job types such as full-time, part-time, and contract-based positions.
 
+[Watch the demo video](https://www.youtube.com/watch?v=Dxf2rOJq1rs)
+
 ## Features
 
 - **Popular Jobs:** Explore a curated list of popular job listings.
