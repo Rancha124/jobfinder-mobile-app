@@ -20,7 +20,7 @@ To use the JobFinder application, follow these steps:
 
 1. **Clone the Repository:** Clone this repository to your local machine.
     ```bash
-    git clone https://github.com/your-username/JobFinder.git
+    git clone https://github.com/Rancha124/jobfinder-mobile-app.git
     ```
 
 2. **Install Dependencies:** Install the necessary dependencies for the application.
